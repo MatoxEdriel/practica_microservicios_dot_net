@@ -11,9 +11,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Constans\AppFormats\" />
       <Folder Include="Constans\ErrorCodes\" />
-      <Folder Include="Helpers\" />
+      <Folder Include="Exceptions\" />
     </ItemGroup>
 
 </Project>
