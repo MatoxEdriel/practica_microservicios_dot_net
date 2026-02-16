@@ -11,9 +11,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="CONSTANS\AppFormats\" />
-      <Folder Include="CONSTANS\ErrorCodes\" />
-      <Folder Include="DTOs\" />
+      <Folder Include="Constans\AppFormats\" />
+      <Folder Include="Constans\ErrorCodes\" />
       <Folder Include="Helpers\" />
     </ItemGroup>
 
