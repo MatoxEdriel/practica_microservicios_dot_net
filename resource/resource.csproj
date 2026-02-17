@@ -5,6 +5,13 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>Intercore.shared</PackageId>
+        <Company>Intercore</Company>
+        <Description>Libreria compartida de DTO</Description>
+
+        <Version>1.0.0</Version>
+
+        <Authors>Gabriel Campoverde</Authors>
     </PropertyGroup>
 
 </Project>
