@@ -1,0 +1,13 @@
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/bin/Release/net9.0/Intercore.shared.deps.json
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/bin/Release/net9.0/Intercore.shared.dll
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/bin/Release/net9.0/Intercore.shared.pdb
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.csproj.AssemblyReference.cache
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.AssemblyInfoInputs.cache
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.AssemblyInfo.cs
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.csproj.CoreCompileInputs.cache
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.sourcelink.json
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.dll
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/refint/Intercore.shared.dll
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/Intercore.shared.pdb
+/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/Release/net9.0/ref/Intercore.shared.dll

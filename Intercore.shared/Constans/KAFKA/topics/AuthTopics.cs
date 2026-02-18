@@ -10,7 +10,15 @@ public static class AuthTopics
     public const string UserLoginFailer = "auth.evt.user-login-failed";
     
     
+    
+    
+    
+    /// <summary>
+    ///Estudiar 
+    /// </summary>
     public const string RegisterUserCommand = "auth.cmd.register-user";
     public const string UserRegisteredEvent = "auth.evt.user-registered";
+    
+    
     
 }

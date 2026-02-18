@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Intercore.shared</id>
+    <version>1.0.0</version>
+    <authors>Intercore.shared</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9dac32a28d043c6273a49355895c14be2e870982" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.Data.SqlClient" version="7.0.0-preview3.25342.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/bin/Release/net9.0/Intercore.shared.dll" target="lib/net9.0/Intercore.shared.dll" />
+  </files>
+</package>
