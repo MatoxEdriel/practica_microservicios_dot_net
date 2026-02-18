@@ -1,0 +1,8 @@
+/resource.sln
+[Bb]in/
+[Oo]bj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.DotSettings.user
