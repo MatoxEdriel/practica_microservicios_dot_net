@@ -17,6 +17,8 @@ public static class AuthTopics
     ///Estudiar 
     /// </summary>
     public const string RegisterUserCommand = "auth.cmd.register-user";
+    
+    
     public const string UserRegisteredEvent = "auth.evt.user-registered";
 
 

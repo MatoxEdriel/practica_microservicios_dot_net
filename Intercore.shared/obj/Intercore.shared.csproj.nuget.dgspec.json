@@ -48,6 +48,14 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[7.0.0-preview3.25342.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[11.0.0-preview.1.26104.118, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[11.0.0-preview.1.26104.118, )"
             }
           },
           "imports": [

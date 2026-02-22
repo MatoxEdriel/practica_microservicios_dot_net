@@ -6,6 +6,7 @@ public class RecoveryMessages
     // envio Api a kafka 
     // Solo se pide correo del usuario, solicitud 
     public record RecoverPasswordRequest(string Email);
+
     
     //Evento que devuelve kafka cuando se termina xd 
     //estaria devolviendo el correo y el token o sea el response 
