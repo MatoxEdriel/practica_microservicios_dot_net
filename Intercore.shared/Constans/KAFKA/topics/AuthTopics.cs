@@ -18,7 +18,16 @@ public static class AuthTopics
     /// </summary>
     public const string RegisterUserCommand = "auth.cmd.register-user";
     public const string UserRegisteredEvent = "auth.evt.user-registered";
+
+
+    //recordar mantener formato de acciones (presente /  pasado)
+    //orden
+    public const string RecoverPasswordCommand = "auth.cmd.recovery-password";
+    //evento en cuestion 
+    public const string PasswordRecoveryRequested = "auth.evt.recovery-password-event";
     
     
-    
+
+
+
 }

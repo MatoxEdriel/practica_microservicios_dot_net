@@ -20,6 +20,7 @@
           "net9.0"
         ],
         "sources": {
+          "/Users/ingcampoverde/LocalNuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
