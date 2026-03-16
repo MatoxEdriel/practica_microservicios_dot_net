@@ -12,7 +12,10 @@ public class KafkaLoggingMiddleware
         _next = next;
     }
 
-    public async Task InvokeAsync(HttpContext context, IPublishEndpoint publishEndpoint)
+    public async Task InvokeAsync(
+        HttpContext context, 
+        ITopicProducer<CreateAccessLogDto> accessProducer, 
+        ITopicProducer<CreateExceptionLogDto> exceptionProducer) 
     {
         var stopwatch = Stopwatch.StartNew();
         bool isSuccess = true;
@@ -33,7 +36,7 @@ public class KafkaLoggingMiddleware
                 StackTrace = ex.StackTrace
             };
 
-            await publishEndpoint.Publish(exceptionLog);
+            await exceptionProducer.Produce(exceptionLog);
 
             throw; 
         }
@@ -48,7 +51,7 @@ public class KafkaLoggingMiddleware
                 IsSuccess = isSuccess && context.Response.StatusCode < 400
             };
 
-            await publishEndpoint.Publish(accessLog);
+            await accessProducer.Produce(accessLog);
         }
     }
 
