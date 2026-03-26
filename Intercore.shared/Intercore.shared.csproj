@@ -4,6 +4,13 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        
+        <Description>Library for microservices</Description>
+        <PackageId>MinePet.Resources</PackageId>
+        <Authors>Gabriel Campoverde</Authors>
+        <Version>1.0.0</Version>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        
     </PropertyGroup>
 
     <ItemGroup>

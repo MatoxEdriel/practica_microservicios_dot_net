@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Intercore.shared")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Gabriel Campoverde")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Library for microservices")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dac32a28d043c6273a49355895c14be2e870982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38c9f287d847e1cc8f8dc6679f84f871df76984")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intercore.shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intercore.shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

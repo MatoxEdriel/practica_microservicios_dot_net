@@ -1543,7 +1543,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/Intercore.shared.csproj",
-      "projectName": "Intercore.shared",
+      "projectName": "MinePet.Resources",
       "projectPath": "/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/Intercore.shared.csproj",
       "packagesPath": "/Users/ingcampoverde/.nuget/packages/",
       "outputPath": "/Users/ingcampoverde/RiderProjects/resource/Intercore.shared/obj/",
