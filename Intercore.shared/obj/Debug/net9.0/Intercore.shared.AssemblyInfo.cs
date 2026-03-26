@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Library for microservices")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38c9f287d847e1cc8f8dc6679f84f871df76984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47067315edc7f00c07444321267fe2e3d4aee792")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intercore.shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intercore.shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
